@@ -1,10 +1,10 @@
 import React from "react"
 import { View } from "react-native"
 
-export const Books: React.FC = () => {
+export const Home: React.FC = () => {
     return (
         <View>
-            Books
+            Home
         </View>
     )
 }
